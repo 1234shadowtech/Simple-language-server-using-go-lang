@@ -1,0 +1,6 @@
+[educationalsp]2024/08/28 16:59:54 main.go:16: Hey, I started!
+[educationalsp]2024/08/28 16:59:54 main.go:37: Received msg with method: initialize
+[educationalsp]2024/08/28 16:59:54 main.go:46: Connected to: Neovim 0.10.0-dev+g27fb62988
+[educationalsp]2024/08/28 16:59:54 main.go:54: Sent the reply
+[educationalsp]2024/08/28 16:59:55 main.go:37: Received msg with method: initialized
+[educationalsp]2024/08/28 17:08:27 main.go:37: Received msg with method: shutdown
